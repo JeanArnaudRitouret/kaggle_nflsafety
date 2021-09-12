@@ -6,3 +6,4 @@ raw_data/
 *.csv
 **/__pycache__/
 .env
+kaggle_nflsafety/data
